@@ -19,7 +19,8 @@
                 android:id="@+id/textInfo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Location Providers Info Goes Here" />
+                android:text="Location Providers Info Goes Here"
+                android:textSize="15dp" />
         </LinearLayout>
     </ScrollView>
 

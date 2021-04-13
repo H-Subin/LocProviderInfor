@@ -11,6 +11,7 @@ import android.widget.TextView;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+
     TextView textInfo;
     LocationManager locManager;
     List<String> locProviderList;
